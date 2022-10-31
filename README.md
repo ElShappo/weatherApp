@@ -1,6 +1,6 @@
 # QuasarWeatherApp (weatherapp)
 
-A Quasar Project
+PET PROJECT: a Quasar web-app which identifies user's geolocation based on openWeatherApi returning the weather in the region
 
 ## Install the dependencies
 ```bash
