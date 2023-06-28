@@ -1,24 +1,11 @@
-# QuasarWeatherApp (weatherapp)
+# QuasarWeatherApp
 
-PET PROJECT: a Quasar web-app which identifies user's geolocation based on openWeatherApi returning the weather in the region
+![image](https://github.com/ElShappo/weatherApp/assets/80031060/7e35076f-a972-45fd-9244-ddfa947c68e7)
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+## A simple web application to get the weather in the desired region. 
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+Note that this application uses OpenWeatherAPI to fetch the data, thus sometimes the weather details might be imprecise.
 
+To view weather in your region you can click the location icon. Before that you may need to allow your browser to get your location.
 
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+The application is running under the following link: [https://weatherquasar.netlify.app/#/](https://weatherquasar.netlify.app/#/)
